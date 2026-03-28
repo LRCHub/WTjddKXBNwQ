@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Empty Cups",
+  "base_artist": "Charlie Puth",
+  "createdAt": "2026-03-28T10:32:37.660609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empty Cups",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/01_Empty_Cups_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Empty Cups",
+      "artist": "Amanda Shires",
+      "has_synced": true,
+      "path": "select/02_Empty_Cups_Amanda_Shires.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Empty Cups",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/03_Empty_Cups_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Charlie Puth - Empty Cups [Official Audio]",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/04_Charlie_Puth_-_Empty_Cups_[Official_Audio]_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "empty cups",
+      "artist": "40ft to go",
+      "has_synced": false,
+      "path": "select/05_empty_cups_40ft_to_go.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "12 Empty Cups",
+      "artist": "Charlie Puth",
+      "has_synced": true,
+      "path": "select/06_12_Empty_Cups_Charlie_Puth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Two Half Empty Cups",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/07_Two_Half_Empty_Cups_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Two Half Empty Cups (Paused)",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/08_Two_Half_Empty_Cups_(Paused)_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Empty Cups",
+      "artist": "Charlie Puth",
+      "has_synced": false,
+      "path": "select/pl_01_Empty_Cups_Charlie_Puth.txt"
+    }
+  ]
+}

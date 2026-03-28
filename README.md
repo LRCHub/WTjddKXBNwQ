@@ -1,0 +1,79 @@
+# Charlie Puth – Empty Cups
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ooo the way that you
+dance on me makes me not wanna leave
+You wanna go upstairs but you don't wanna sleep
+Oh right now we're in a rhythm
+Your boyfriend's no competition
+Turn off your phone and blame it on your battery
+Hey!
+Oh Oh Oh Oh
+We're getting real real close
+Oh Oh Oh Oh
+Can't let this moment go
+Hands on your body like
+there's no one at the party
+Just me and you and these empty cups
+If you want it like
+I want it let me take you to another room
+So it's only us
+Turn that television up
+So nobody can listen
+Hands on your body like
+there's no one at the party
+Just me and you
+And these empty cups
+Ooo girl do you think
+they'll notice if we slip away
+Maybe tomorrow they'll all have something to say
+Oh right now we're in a rhythm
+We don't need no one's permission
+Baby I'll meet you downstairs for another drink
+Oh Oh Oh Oh
+We're getting real real close
+Oh Oh Oh Oh
+Can't let this moment go
+Hands on your body like
+there's no one at the party
+Just me and you (me and you)
+and these empty cups
+If you want it like I want it let me
+take you to another room (another room)
+So it's only us
+Turn that television up
+So nobody can listen
+Hands on your body like
+there's no one at the party
+Just me and you (me and you)
+And these empty cups
+And these empty cups
+Oh no no babe
+Oh Oh Oh Oh
+We're getting real real close
+Oh Oh Oh Oh
+Can't let this moment go
+Hands on your body like
+there's no one at the party
+Just me and you (me and you)
+and these empty cups
+If you want it like I want it let me
+take you to another room (another room)
+So it's only us
+Turn that television up
+So nobody can listen
+Hands on your body like
+there's no one at the party
+Just me and you (me and you)
+and these empty cups
+Ooo Ooo
+And these empty cups
+These empty cups
+Turn that television (television up)
+So nobody can listen (no one listening)
+Hands on your body like
+there's no one at the party
+Just me and you and these empty cups
+```
